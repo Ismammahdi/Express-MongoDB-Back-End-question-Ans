@@ -1,0 +1,32 @@
+1.What is client-side and server-side in web development, and what is the main difference between the two?
+
+Ans: Client side is the part of application that runs on users computer where server side is the part of application that runs on a web server. The main difference between client side and server side is in client side code executes on the users computer while server side code executed on the web server.in client side controlls interface , interactivity on the other hand server side processes data,
+storage data
+
+2.What is an HTTP request and what are the different types of HTTP requests?
+
+Ans: HTTP request is a message sent by a client to a server.HTTP full meaning is hypertext transfer protocol.
+the request line specifies the URI,and Http version. The headers provide additional information about the request, such as the content type and the cookies.
+there are some http requests:
+1)get
+2)post
+3)put
+4)delete
+5)options
+6)head
+7)patch
+
+3.What is JSON and what is it commonly used for in web development?
+Ans: JSON is JavaScript Object Notation.
+JSON is used to send data between computers.
+It can be used for data transfer between client and server.It used for data storage in database . It is human readable .
+
+4.What is a middleware in web development, and give an example of how it can be used.
+
+Ans: Middleware is software that sits between the client and the server in a web application. It is used to handle tasks such as authentication, authorization, and routing. Middleware can also be used to add features to a web application, such as logging, caching, and error handling.Middleware is a powerful tool that can be used to improve the security.
+
+5.What is a controller in web development, and what is its role in the MVC architecture?
+Ans: The controller is the central component of the MVC architecture.MVC full meaning is Model-View-Controller .
+The controller is responsible for receiving user input, processing it, and then returning a response.
+In MVC architecturevthe controller helps to seperate the view and model that makes code more easier to maintain.
+it improves performance of a web  application by caching frequently used data. Increases security of web application, improved scalability.
